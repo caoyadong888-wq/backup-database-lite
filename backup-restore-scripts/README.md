@@ -61,3 +61,8 @@ cron 示例在 02:15 以 root 运行这份备份。恢复到已有文件的目�
 bash 4.4 或更高、rsync 3.x、GNU coreutils。
 
 Full version: GUMROAD_URL
+
+## Delivery time / 交付时间
+
+- Lite (this repo): free, available now. / 精简版（本仓库）：免费，立即可用。
+- Full version: instant download after purchase (GUMROAD_URL). / 完整版：购买后即时下载（GUMROAD_URL）。
